@@ -1,7 +1,7 @@
 {
     "name": "yakeing/dnspod_api",
     "description": "The DNSPod User API is restricted to individual users, making it easier and more flexible for users to manage their own domain names and records.",
-    "keywords": ["domain", "MX", "cname", "IP", "DNS"],
+    "keywords": ["DOMAIN", 'SRV', 'MX', 'CNAME', 'AAAA', 'A', 'TXT', 'NS', "IP", "DNS"],
     "homepage": "https://github.com/yakeing/Dnspod_API",
     "type": "symfony-bundle",
     "license": "MPL-2.0",
