@@ -6,6 +6,11 @@ The [DNSPod User API](https://www.dnspod.cn/docs/index.html) is restricted to in
 
 `Need to cooperate with Curl extension`
 
+### Packagist
+
+[![Version](http://img.shields.io/packagist/v/yakeing/dnspod_api.svg)](https://github.com/yakeing/Dnspod_API/releases)
+[![Downloads](http://img.shields.io/packagist/dt/yakeing/dnspod_api.svg)](https://packagist.org/packages/yakeing/Dnspod_API)
+
 ### Github
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/Dnspod_API/total.svg)](https://github.com/yakeing/Dnspod_API)
