@@ -11,11 +11,11 @@ https://www.dnspod.cn China Shandong Province
 
 ### Github badge
 
-[![Downloads](https://img.shields.io/github/downloads/yakeing/dnspod_api/total?color=dfb317&logo=github)](../../)
-[![Size](https://img.shields.io/github/size/yakeing/dnspod_api/src/dnspod.php?color=b36d41&logo=github)](src/dnspod.php)
-[![tag](https://img.shields.io/github/v/tag/yakeing/dnspod_api?color=28a745&logo=github)](../../releases)
-[![license](https://img.shields.io/github/license/yakeing/dnspod_api?color=FE7D37&logo=github)](LICENSE)
-[![languages](https://img.shields.io/badge/languages-php-007EC6?logo=github)](../../search?l=php)
+[![Downloads](https://badging.now.sh/github/downloads/yakeing/dnspod_api?logo=github)](../../)
+[![Size](https://badging.now.sh/github/size/yakeing/dnspod_api?logo=github)](src)
+[![tag](https://badging.now.sh/github/tag/yakeing/dnspod_api?logo=github)](../../releases)
+[![license](https://badging.now.sh/github/license/yakeing/dnspod_api?logo=github)](LICENSE)
+[![languages](https://badging.now.sh/github/language/yakeing/dnspod_api?logo=github)](../../search?l=php)
 
 ### Installation
 
@@ -152,7 +152,7 @@ Of course, You can go to [Packagist](https://packagist.org/packages/yakeing/dnsp
 
 If you've got value from any of the content which I have created, then I would very much appreciate your support by payment donate.
 
-[![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?logo=google%20fit&logoColor=FFFFFF)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
+[![Sponsor](https://badging.now.sh/static/label/Sponsor/EA4AAA?logo=heart)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
 
 Author
 ---
