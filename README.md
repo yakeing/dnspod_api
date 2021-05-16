@@ -1,7 +1,6 @@
 # Dnspod_API
 
-The [DNSPod User API](https://www.dnspod.com/docs/index.html) OR 
-[DNSPod中文文档](https://www.dnspod.cn/docs/index.html) is restricted to individual users, making it easier and more flexible for users to manage their own domain names and records.
+The [DNSPod User API](https://www.dnspod.com/docs/index.html) OR [DNSPod中文文档](https://www.dnspod.cn/docs/index.html) is restricted to individual users, making it easier and more flexible for users to manage their own domain names and records.
 
 https://www.dnspod.com China Hong Kong
 
@@ -11,11 +10,11 @@ https://www.dnspod.cn China Shandong Province
 
 ### Github badge
 
-[![Downloads](https://badging.tk/github/downloads/yakeing/dnspod_api?icon=github)](../../)
-[![Size](https://badging.tk/github/size/yakeing/dnspod_api?icon=github)](src)
-[![tag](https://badging.tk/github/tag/yakeing/dnspod_api?icon=github)](../../releases)
-[![license](https://badging.tk/static/license/555/MPL-2.0/fe7d37?icon=github)](LICENSE)
-[![languages](https://badging.tk/static/language/555/PHP/34abef?icon=github)](../../search?l=php)
+[![Downloads](https://badging.vercel.app/github/downloads/yakeing/dnspod_api?icon=github)](../../)
+[![Size](https://badging.vercel.app/github/size/yakeing/dnspod_api?icon=github)](src)
+[![tag](https://badging.vercel.app/github/tag/yakeing/dnspod_api?icon=github)](../../releases)
+[![license](https://badging.vercel.app/static/license/555/MPL-2.0/fe7d37?icon=github)](LICENSE)
+[![languages](https://badging.vercel.app/static/language/555/PHP/34abef?icon=github)](../../search?l=php)
 
 ### Installation
 
@@ -83,7 +82,7 @@ Of course, You can go to [Packagist](https://packagist.org/packages/yakeing/dnsp
     echo $DP->getBatchDetail($job_id);
 ```
 
-### Add a single record 
+### Add a single record
 
 - [x] Sample：
 ```php
@@ -132,14 +131,14 @@ Of course, You can go to [Packagist](https://packagist.org/packages/yakeing/dnsp
 ```php
     //Get the API version number
     echo $DP->getVersion();
-    
+
     //Get the level allowed line
     $domain = 'example.com';
     echo $DP->getRecordLine($domain);
-    
+
     //Get a list of domain names
     echo $DP->getDomainList();
-    
+
     //Construct a new record table
     $name = 'example.com';
     $type = 'A';
@@ -152,7 +151,7 @@ Of course, You can go to [Packagist](https://packagist.org/packages/yakeing/dnsp
 
 If you've got value from any of the content which I have created, then I would very much appreciate your support by payment donate.
 
-[![Sponsor](https://badging.tk/static/Sponsor/EA4AAA?icon=heart)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
+[![Sponsor](https://badging.vercel.app/static/Sponsor/EA4AAA?icon=heart)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
 
 Author
 ---
